@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meghana Ganesh</h1>
 <h3 align="center">A passionate software developer from India!</h3>
-
+<body bgcolor = "black">
 <p align="left"> <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" alt="meghana-ganesh" /> </p>
 
 - 🌱 I’m currently learning **C++,Java**
@@ -16,4 +16,5 @@
 <a href="https://instagram.com/meg_valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meghana-ganesh" height="30" width="40" /></a>
 
 </p>
+</body>
 
