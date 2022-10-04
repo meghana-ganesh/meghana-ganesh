@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meghana Ganesh</h1>
 <h3 align="center">A passionate software developer from India!</h3>
 <body bgcolor = "black">
-<p align="left"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" alt="meghana-ganesh" width="100"></br> /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" alt="meghana-ganesh" width="100"></br> </p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **C++,Java**
 
