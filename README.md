@@ -2,8 +2,7 @@
 <h3 align="center">A passionate software developer from India!</h3>
 <body bgcolor = "black">
 <p align="left"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" alt="meghana-ganesh" width="100"></br> </p>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 - 🌱 I’m currently learning **C++,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meghana-ganesh](https://github.com/meghana-ganesh)
