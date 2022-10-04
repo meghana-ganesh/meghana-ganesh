@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana Ganesh</h1>
 <h3 align="center">A passionate software developer from India!</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F15628402%2Fmedia%2F7bb0d27e44d8c2eff47276ae86bfd6a3.png%3Fcompress%3D1%26resize%3D400x300%26vertical%3Dtop&imgrefurl=https%3A%2F%2Fdribbble.com%2Ftags%2Fcoder_girl&tbnid=NfT5sz_jwjIwlM&vet=12ahUKEwj2me7m6cX6AhUMi9gFHf7uA9cQMygAegUIARDTAQ..i&docid=5pypUG4o0b7xWM&w=400&h=300&q=coder%20girl&client=ubuntu&ved=2ahUKEwj2me7m6cX6AhUMi9gFHf7uA9cQMygAegUIARDTAQ" alt="meghana-ganesh" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw31WH9xUdjpaLCfVUBcxSZG&ust=1664947204583000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLDBj9vqxfoCFQAAAAAdAAAAABAH" alt="meghana-ganesh" /> </p>
 
 - 🌱 I’m currently learning **C++,Java**
 
