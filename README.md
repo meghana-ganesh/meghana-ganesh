@@ -22,7 +22,10 @@
   <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></br>
 </p>
-
+<div>
+  <h2 align="center"> 📊 Github stats </h2>
+    <br/>
+</div>    
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-ganesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghana-ganesh" /></p>
 
