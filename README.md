@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software developer from India!</h3>
 <body bgcolor = "blue">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=jj1104&label=Profile%20views&color=0e75b6&style=flat" alt="jj1104" /> </p>
 
 
 - 🌱 I’m currently learning **C++,Java**
