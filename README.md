@@ -16,6 +16,9 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/meg__valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meghana-ganesh" height="30" width="40" /></a>
+ <a href="mailto:ganeshmeghana2@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Meghana" height="30"/></a>
   <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></br>
 </p>
