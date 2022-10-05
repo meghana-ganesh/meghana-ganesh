@@ -19,5 +19,10 @@
   <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></br>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-ganesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghana-ganesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghana-ganesh&show_icons=true&theme=dark&locale=en" alt="meghana-ganesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana-ganesh&theme=dark" alt="meghana-ganesh" /></p>
 </body>
 
