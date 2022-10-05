@@ -14,7 +14,7 @@
 - 📫 How to reach me **ganeshmeghana2@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-ganesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghana-ganesh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-ganesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghana-ganesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghana-ganesh&show_icons=true&theme=dark&locale=en" alt="meghana-ganesh" /></p>
 
