@@ -23,7 +23,11 @@
   <h2 align="center"> 📊 Github stats </h2>
     <br/>
 </div>    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-ganesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghana-ganesh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghana-ganesh&show_icons=true&theme=dark&locale=en" alt="meghana-ganesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghana-ganesh&theme=dark" alt="meghana-ganesh" /></p>
 
  
  
