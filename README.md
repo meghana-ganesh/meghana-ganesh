@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghana Ganesh</h1>
+<h1 align="center" style="height:50; font-size:50pt; filter:shadow(Color=red)">Hi 👋, I'm Meghana Ganesh</h1>
 <h3 align="center">A passionate software developer from India!</h3>
 <body bgcolor = "blue">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
